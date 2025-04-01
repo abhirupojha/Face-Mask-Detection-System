@@ -2,7 +2,7 @@
 
 The Face Mask Detection System is an AI/ML-based solution designed to detect whether a person is wearing a face mask. The system uses deep learning models to classify images or video streams into masked and unmasked categories, enhancing public safety and compliance with health regulations.
 
-Features
+Features:-
 
 Real-Time Detection: Identifies mask usage in live video feeds.
 
@@ -14,7 +14,7 @@ Multi-Person Detection: Works in crowded environments.
 
 Alerts & Notifications: Generates warnings for non-compliance.
 
-Technologies Used
+Technologies Used:-
 
 Programming Language: Python
 
